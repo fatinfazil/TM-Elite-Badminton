@@ -1,0 +1,7 @@
+﻿db_connect.php
+uploads/
+.vscode/
+.env
+*.sql
+
+badminton_qr.jpg
